@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saifabrar17
 - 👀 I’m interested in Web Development
 - 🌱 Learning ReactJS
-- 📫 Reach me @ saifabrar.webdev@gmial.com
+- 📫 Reach me @ saifabrar.webdev@gmail.com
 
 <!---
 saifabrar17/saifabrar17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
