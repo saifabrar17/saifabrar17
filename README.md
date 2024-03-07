@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @saifabrar17
-- 👀 I’m interested in Web Development
-- 🌱 Learning ReactJS
+- 👀 I’m a software developer
+- Currenty working in
+  - ASP.NET 4 MVC
+  - React Js
+  - Next Js
+  - Typescript
+- 🌱 Practicing CP
 - 📫 Reach me @ saifabrar.webdev@gmail.com
 
 <!---
